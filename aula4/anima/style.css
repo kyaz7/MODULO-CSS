@@ -1,0 +1,16 @@
+div {
+  position: relative;
+  top: 10px;
+  background-color: red;
+  border-radius: 5px;
+  color: blue;
+  font-size: 25px;
+  display: inline-block;
+  border: 4px solid rgb(255, 30, 0);
+}
+
+button {
+  color: blue;
+  background-color: rgb(139, 202, 237);
+  font-size: xx-large;
+}

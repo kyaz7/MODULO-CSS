@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 5em;
+  background-color: black;
+}
+
+
+.poster1 {
+width: 22%;
+height: 22%;
+border: dotted 22px red;
+padding: 10px;
+margin: 22px;
+}
+
+.poster2 {
+  width: 22%;
+height: 22%;
+border: solid 22px red;
+padding: 10px;
+margin: 22px;
+}
+
+.poster3 {
+  width: 22%;
+height: 22%;
+border: dashed 22px red;
+padding: 10px;
+margin: 22px;
+}

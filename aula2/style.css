@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 10em;
+}
+
+.tit {
+  display: center;
+  background-color: blue;
+  color: white;
+}
+
+.number {
+  display: block;
+  background-color: rgb(95, 94, 94);
+}
+
+
+table {
+  background-color: cyan;
+}
+
+.pop {
+
+  background-color: rgb(87, 87, 241);
+}
